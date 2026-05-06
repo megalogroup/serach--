@@ -1,0 +1,9 @@
+streamlit==1.45.0
+python-dotenv==1.0.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+readability-lxml==0.8.1
+pydantic==2.11.4
+openai==1.79.0
+pandas==2.2.3
+sqlalchemy==2.0.40
